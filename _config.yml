@@ -103,4 +103,7 @@ theme: ascent
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:deanputney/blog.git
+  branch: gh-pages
+  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
