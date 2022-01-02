@@ -8,6 +8,8 @@ tags: news, fundraiser
 
 {% blockquote %}
 If you are not already a regular PBS NewsHour viewer: Watch a [full episode on YouTube](https://www.youtube.com/playlist?list=PLgawtcOBBjr9w4YGiJrPD8f6MXTCIUfK9), let me know what you think on [Twitter](https://twitter.com/deanputney) and I'll donate $10 (up to $500 total) to their fundraiser.
+
+($150/$500 so far)
 {% endblockquote %}
 
 
