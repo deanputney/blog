@@ -9,7 +9,7 @@ tags: news, fundraiser
 {% blockquote %}
 If you are not already a regular PBS NewsHour viewer: Watch a [full episode on YouTube](https://www.youtube.com/playlist?list=PLgawtcOBBjr9w4YGiJrPD8f6MXTCIUfK9), let me know what you think on [Twitter](https://twitter.com/deanputney) and I'll donate $10 (up to $500 total) to their fundraiser.
 
-($150/$500 so far)
+(Fundraising completed!)
 {% endblockquote %}
 
 
@@ -34,7 +34,7 @@ There are a few written sources I like, but in the television and video segment 
 
 Here's why I really like the NewsHour:
 
-1. It's accessible. You can find it [on YouTube](https://www.youtube.com/channel/UC6ZFN9Tx6xh-skXCuRHCDpQ) in [full episode format](https://www.youtube.com/playlist?list=PLgawtcOBBjr9w4YGiJrPD8f6MXTCIUfK9) or in segments, on many smart TVs, and on public television. 
+1. It's accessible. You can find it [on YouTube](https://www.youtube.com/channel/UC6ZFN9Tx6xh-skXCuRHCDpQ) in [full episode format](https://www.youtube.com/playlist?list=PLgawtcOBBjr9w4YGiJrPD8f6MXTCIUfK9) or in segments, on many smart TVs, and on public television.
 2. It's free and publicly supported for everyone. There are sponsors, but no ad breaks.
 3. It's respectful of my time. An hour seems like a lot for a daily news show, but in a year or two of fairly serious viewing I have never felt like I wasted my time watching it.
 4. It's been around forever. We watched it as a family when I was growing up, my parents called it the SnoozeHour. People know the show.
