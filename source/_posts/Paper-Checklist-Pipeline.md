@@ -6,7 +6,7 @@ tags:
   - stardate
 ---
 
-![Paper checklist on a 4x6 index card with a handful of items to complete on Thursday. It's neatly laid out with checkboxes and details for each item.](IMG_8583.jpeg)
+![Paper checklist on a 4x6 index card with a handful of items to complete on Thursday. It's neatly laid out with checkboxes and details for each item.](IMG_8588.jpeg)
 
 It's satisfying to cross things off a paper checklist. A paper checklist can't interrupt you. At the end of the day you can add it to a growing little stack on your desk and feel accomplished.
 
@@ -193,6 +193,8 @@ Finally, I copy this output to my [LaTeX editor](https://pages.uoregon.edu/koch/
 
 Keeping this last part manual lets me tweak things if I need to. For example, I might add checkboxes for medication reminders to the template. Sometimes I might make a generic checklist instead of a daily agenda. Also the LLM output is not perfect, and might need fixing. The flexibility is helpful.
 
+<!--
 Additionally, you may have noticed the "Geography Trivia of the Day" at the bottom of the agenda. I'm studying to up my [Learned League](https://www.learnedleague.com/) game and geography is my weakest subject. An LLM shortcut I wrote for [Alfred](https://www.alfredapp.com/) copies a piece of random trivia to my clipboard. So far even the simpler LLMs generally produce trivia I can verify on Wikipedia, which is interesting!
+-->
 
 Thanks for reading! _Check!_
