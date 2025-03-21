@@ -1,5 +1,5 @@
 ---
-title: An Automatic Daily Agenda
+title: Voice to Paper Checklist
 date: 2025-03-20 14:37:00
 tags:
   - ai
