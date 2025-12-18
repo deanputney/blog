@@ -1,5 +1,5 @@
 ---
-title: Four demos of AI in iOS Shortcuts
+title: Four practical uses of AI in iOS Shortcuts
 date: 2025-12-18 14:28:43
 tags:
   - ai
