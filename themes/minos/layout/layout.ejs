@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="has-navbar-fixed-top">
+<html lang="en">
 <head>
     <%- partial('common/head') %>
 </head>
@@ -8,9 +8,5 @@
     <%- body %>
     <%- partial('common/footer') %>
     <%- partial('common/scripts') %>
-
-    <% if (has_config('search.type')) { %>
-    <%- partial('search/' + get_config('search.type')) %>
-    <% } %>
 </body>
 </html>
