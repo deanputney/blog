@@ -6,7 +6,7 @@ tags:
   - stardate
 ---
 
-![Paper checklist on a 4x6 index card with a handful of items to complete on Thursday. It's neatly laid out with checkboxes and details for each item.](IMG_8588.jpeg)
+![Paper checklist on a 4x6 index card with a handful of items to complete on Thursday. It's neatly laid out with checkboxes and details for each item. [wide]](IMG_8588.jpeg)
 
 It's satisfying to cross things off a paper checklist. A paper checklist can't interrupt you. At the end of the day you can add it to a growing little stack on your desk and feel accomplished.
 
