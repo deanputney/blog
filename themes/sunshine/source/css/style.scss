@@ -1,6 +1,6 @@
 /* ============================================================
-   Dean's Notes — Blog Theme
-   Hybrid: Source Serif 4 body + DM Sans headings
+   Sunshine — A clean blog theme for Dean's Notes
+   Source Serif 4 body + DM Sans headings
    ============================================================ */
 
 $font-body: 'Source Serif 4', Georgia, serif;
@@ -317,21 +317,16 @@ a {
    WIDE IMAGES — responsive
    ============================================================ */
 @media (max-width: 700px) {
-  .site-header, .container { padding-left: 1.25rem; padding-right: 1.25rem; }
+  .site-header, .container { padding-left: 0.75rem; padding-right: 0.75rem; }
 
   .post-title { font-size: 1.75rem; }
 
   .post-body figure.image-wide,
   .post-body img.image-wide {
-    width: calc(100% + 2.5rem);
-    max-width: none;
-    margin-left: -1.25rem;
+    width: auto;
+    max-width: 100%;
+    margin-left: 0;
     transform: none;
-  }
-
-  .post-body figure.image-wide img,
-  .post-body img.image-wide {
-    border-radius: 0;
   }
 }
 
