@@ -16,6 +16,8 @@ However. Grey in Seattle simply will not do. I had just been to the Guggenheim d
 
 I like the yellow ones. Why not a sunny filing cabinet?
 
+<!-- more -->
+
 I had no real luck calling companies to paint or powder coat this for me. But [this article suggested](https://boopyprojects.wordpress.com/2010/07/01/file-cabinet-planters/) it's not too challenging to spray it yourself. Their results took one can of primer and two cans of color. 
 
 With my friend James visiting for the week, the spray challenge was on! As we painted I decided that the objective here was not just to lay on a couple quick coats and move on. We were going to do a Good Job™️. 
